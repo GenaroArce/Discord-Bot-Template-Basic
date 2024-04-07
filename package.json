@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Simple Template Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenaroArce/Discord-Bot-Template-Basic.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Genaro Arce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenaroArce/Discord-Bot-Template-Basic/issues"
+  },
+  "homepage": "https://github.com/GenaroArce/Discord-Bot-Template-Basic#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
